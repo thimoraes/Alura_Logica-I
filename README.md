@@ -2,7 +2,7 @@
 
 ### 📖 Sobre:
 
-Aulas dadas pela @alura-cursos[github.com/alura-cursos], com o intuito de aprender o básico de lógica de programação, utilizando tecnologias Web
+Aulas dadas pela [@alura-cursos](github.com/alura-cursos), com o intuito de aprender o básico de lógica de programação, utilizando tecnologias Web
 
 Tudo é bem simples e foi feito por mim!
 
