@@ -1,1 +1,3 @@
-# Logica-de-Programacao-Alura
+### Logica de Programação I - Alura
+
+# Sobre
