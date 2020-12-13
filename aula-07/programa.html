@@ -1,1 +1,23 @@
+<meta charset="UTF-8">
+<script>
+	// PARTE 1
+	function pulaLinha() {
+		document.write("<br>");
+	}
 
+	function mostra(mensagem) {
+		document.write(mensagem);
+		pulaLinha();
+	}
+
+	var anoCopa = 1930;
+	var anoAtual = parseInt(prompt("Digite o ano atual!"));
+	document.write("Teve copa em: ")
+
+	while(anoCopa <= anoAtual) {
+		document.write(anoCopa + ", ")
+		anoCopa = anoCopa + 4;
+	};
+
+	mostra("Fim!");
+</script>

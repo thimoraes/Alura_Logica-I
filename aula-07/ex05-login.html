@@ -1,0 +1,27 @@
+<meta charset="UTF-8">
+<script>
+	var cadastro = false; 	// cadastro começa repetindo
+	var tentativas = 1; 	// número de tentativas
+
+	while (cadastro == false) {
+	    var loginCadastrado = "alura";
+	    var senhaCadastrada = "alura321";
+
+	    var loginInformado = prompt("Informe seu login");
+	    var senhaInformada = prompt("Informe sua senha");
+
+	    if( loginCadastrado == loginInformado && senhaCadastrada == senhaInformada ) {
+
+	        alert("Bem-vindo ao sistema " + loginInformado);
+	        cadastro = true; 	// caso acerte, ele acaba o login e entra
+	    } else {
+	    	if (tentativas == 3) {
+	    		alert("Desculpa, você errou 3 vezes seu login. Tente novamente outra hora!")
+	    		cadastro = true;	// caso erre todas as vezes, ele acaba sem o login
+	    	} else {
+	    		alert("Login inválido. Tente novamente");
+	        	tentativas = tentativas + 1;	// sempre que ele vai errando, ele aumenta 1, se chegar em 3, o programa acaba
+	    	};
+	    };
+    };
+</script>
