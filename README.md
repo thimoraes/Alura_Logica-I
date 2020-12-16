@@ -6,10 +6,6 @@ Aulas dadas pela [@alura-cursos](https://github.com/alura-cursos), com o intuito
 
 Tudo é bem simples e foi feito por mim!
 
----
-
-### 📄 Certificado de Conclusão:
-
 - [Certificado de Conclusão](https://cursos.alura.com.br/certificate/163fdc1c-6940-47c4-9c6b-b95633d0cf08)
 
 --- 
