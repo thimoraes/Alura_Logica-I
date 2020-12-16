@@ -12,7 +12,7 @@ Tudo é bem simples e foi feito por mim!
 
 ### 💻 Tecnologias Usadas:
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+O curso utiliza as seguintes tecnologias:
 
 - HTML
 - JavaScript
